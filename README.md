@@ -1,6 +1,8 @@
 # My vim config
 
-My vimrc and bundled modules as git submodules, geared for ruby and puppet
+My vimrc and bundled modules as git submodules, geared for ruby and puppet. To install
+
+  cd ~/ && git clone https://github.com/paulruiz/dotvim.git .vim && ln -s .vim/vimrc .vimrc
 
 ### Bundled vim modules
 * [pathogen](https://github.com/tpope/vim-pathogen)       -  separate your plugins into .vim/bundle/foo subdirs and other benefits
@@ -21,4 +23,4 @@ My vimrc and bundled modules as git submodules, geared for ruby and puppet
 
 
 ### Vim modules you may want to checkout
-* [vim-ruby-conque]](https://github.com/skwp/vim-ruby-conque.git) - may be better for rspec and rake run/output 
+* [vim-ruby-conque](https://github.com/skwp/vim-ruby-conque.git) - may be better for rspec and rake run/output 
