@@ -2,7 +2,10 @@
 
 My vimrc and bundled modules as git submodules, geared for ruby and puppet. To install
 
-  cd ~/ && git clone https://github.com/paulruiz/dotvim.git .vim && ln -s .vim/vimrc .vimrc
+  git clone https://github.com/paulruiz/dotvim.git ~/.vim 
+  ln -s ~/.vim/vimrc ~/.vimrc 
+  cd ~/.vim 
+  git submodule update --init --merge
 
 ### Bundled vim modules
 * [pathogen](https://github.com/tpope/vim-pathogen)       -  separate your plugins into .vim/bundle/foo subdirs and other benefits
