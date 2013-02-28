@@ -48,4 +48,4 @@ filetype plugin indent on
 :filetype plugin on
 
 let NERDTreeIgnore=['.git', '\~$']
-let NERDTreeBookmarksFile='/Users/pruiz/.vim/.NERDTreeBookmarks'
+let NERDTreeBookmarksFile='~/.vim/.NERDTreeBookmarks'
