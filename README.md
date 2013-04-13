@@ -23,6 +23,8 @@ My vimrc and bundled modules as git submodules, geared for ruby and puppet. To i
 * [markdown](https://github.com/tpope/vim-markdown.git)   -  markdown mode
 * [dbext](https://github.com/vim-scripts/dbext.vim.git)   -  database access to many dbms (Oracle, Sybase, Microsoft, MySQL, DBI, etc)
 * [tabular](https://github.com/godlygeek/tabular.git)     -  quickly columnize text and vertically align. Actually pretty nifty
+* [commentary](https://github.com/tpope/vim-commentary)   -  toggle commets on and off
+* [repeat](https://github.com/tpope/vim-repeat)           -  enable repeating supported plugin maps with "."
 
 
 ### Vim modules you may want to checkout

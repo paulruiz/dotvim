@@ -49,3 +49,5 @@ filetype plugin indent on
 
 let NERDTreeIgnore=['.git', '\~$']
 let NERDTreeBookmarksFile='~/.vim/.NERDTreeBookmarks'
+
+" autocmd FileType apache set commentstring=#\ %s
