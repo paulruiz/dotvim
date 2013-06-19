@@ -47,6 +47,7 @@ syntax on
 filetype plugin indent on
 :filetype plugin on
 
+let g:slime_target = "tmux"
 let NERDTreeIgnore=['.git', '\~$']
 let NERDTreeBookmarksFile='~/.vim/.NERDTreeBookmarks'
 
