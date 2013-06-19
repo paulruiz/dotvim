@@ -14,6 +14,7 @@ My vimrc and bundled modules as git submodules, geared for ruby and puppet. To i
 * [fugitive](https://github.com/tpope/vim-fugitive)       -  self-proclaimed best vim _git_ wrapper plugin
 * [nerdtree](https://github.com/scrooloose/nerdtree.git)  -  _file browser_ with special powers
 * [puppet](https://github.com/rodjek/vim-puppet.git)      -  puppet mode with snippets, syntastic and tabular
+* [vim-slime](https://github.com/jpalardy/vim-slime)      -  grab some text and "send" it to a GNU Screen / tmux / whimrepl session.
 * [vim-rake](https://github.com/tpope/vim-rake.git)       -  like vim-rails without the rails
 * [vim-rails](https://github.com/tpope/vim-rails.git)     -  rails dev mode
 * [vim-bundler](https://github.com/tpope/vim-bundler.git) -  lightweight support for ruby's bundler
