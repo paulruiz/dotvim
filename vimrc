@@ -52,3 +52,4 @@ let NERDTreeIgnore=['.git', '\~$']
 let NERDTreeBookmarksFile='~/.vim/.NERDTreeBookmarks'
 
 autocmd FileType puppet set commentstring=#\ %s
+set completefunc=syntaxcomplete#Complete

@@ -26,6 +26,7 @@ My vimrc and bundled modules as git submodules, geared for ruby and puppet. To i
 * [tabular](https://github.com/godlygeek/tabular.git)     -  quickly columnize text and vertically align. Actually pretty nifty
 * [commentary](https://github.com/tpope/vim-commentary)   -  toggle commets on and off
 * [repeat](https://github.com/tpope/vim-repeat)           -  enable repeating supported plugin maps with "."
+* [ruby-minitest](https://github.com/sunaku/vim-ruby-minitest)  -  vim highlighting & completion for MiniTest
 
 
 ### Vim modules you may want to checkout
