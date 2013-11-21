@@ -52,3 +52,6 @@
 [submodule "bundle/vim-ruby-minitest"]
 	path = bundle/vim-ruby-minitest
 	url = https://github.com/sunaku/vim-ruby-minitest.git
+[submodule "bundle/trailertrash"]
+	path = bundle/trailertrash
+	url = https://github.com/csexton/trailertrash.vim.git
