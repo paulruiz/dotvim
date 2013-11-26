@@ -28,6 +28,7 @@ My vimrc and bundled modules as git submodules, geared for ruby and puppet. To i
 * [repeat](https://github.com/tpope/vim-repeat)           -  enable repeating supported plugin maps with "."
 * [ruby-minitest](https://github.com/sunaku/vim-ruby-minitest)  -  vim highlighting & completion for MiniTest
 * [trailertrash](https://github.com/csexton/trailertrash.vim.git) -  trailing whitespace show and trim
+* [ruby minitest](https://github.com/sunaku/vim-ruby-minitest.git) -  minitest mode
 
 
 ### Vim modules you may want to checkout
