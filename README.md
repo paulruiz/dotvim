@@ -29,7 +29,7 @@ My vimrc and bundled modules as git submodules, geared for ruby and puppet. To i
 * [ruby-minitest](https://github.com/sunaku/vim-ruby-minitest)  -  vim highlighting & completion for MiniTest
 * [trailertrash](https://github.com/csexton/trailertrash.vim.git) -  trailing whitespace show and trim
 * [ruby minitest](https://github.com/sunaku/vim-ruby-minitest.git) -  minitest mode
-
+* [json](https://github.com/elzr/vim-json.git)  -  better json syntax highlighting
 
 ### Vim modules you may want to checkout
 * [vim-ruby-conque](https://github.com/skwp/vim-ruby-conque.git) - may be better for rspec and rake run/output 
