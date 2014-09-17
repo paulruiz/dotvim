@@ -50,6 +50,7 @@ filetype plugin indent on
 let g:slime_target = "tmux"
 let NERDTreeIgnore=['.git', '\~$']
 let NERDTreeBookmarksFile='~/.vim/.NERDTreeBookmarks'
+let g:vim_json_syntax_conceal = 0
 
 autocmd FileType puppet set commentstring=#\ %s
 set completefunc=syntaxcomplete#Complete
