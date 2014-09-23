@@ -7,6 +7,11 @@ My vimrc and bundled modules as git submodules, geared for ruby and puppet. To i
     cd ~/.vim 
     git submodule update --init --merge
 
+To update submodules
+
+    git submodule foreach 'git checkout master && git pull'
+    git add bundle/*
+
 ### Bundled vim modules
 * [pathogen](https://github.com/tpope/vim-pathogen)       -  separate your plugins into .vim/bundle/foo subdirs and other benefits
 * [snipmate](https://github.com/msanders/snipmate.vim)    -  textmate _snippets_ in vim.  Be sure to pull in a number of pull requests.
