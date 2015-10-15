@@ -25,6 +25,7 @@ To update submodules
 * [vim-bundler](https://github.com/tpope/vim-bundler.git) -  lightweight support for ruby's bundler
 * [vim-rdoc](https://github.com/depuracao/vim-rdoc)       -  rdoc mode
 * [vim-rspec](https://github.com/skwp/vim-rspec)          -  colorized RSpec tests in Vim with direct access to the line where the error occurred
+* [vim-terraform](https://github.com/markcornick/vim-terraform) - Hashicorp Terraform support
 * [cucumber](https://github.com/tpope/vim-cucumber.git)   -  vim cucumber runtime files
 * [markdown](https://github.com/tpope/vim-markdown.git)   -  markdown mode
 * [dbext](https://github.com/vim-scripts/dbext.vim.git)   -  database access to many dbms (Oracle, Sybase, Microsoft, MySQL, DBI, etc)
