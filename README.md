@@ -2,9 +2,9 @@
 
 My vimrc and bundled modules as git submodules, geared for ruby and puppet. To install
 
-    git clone https://github.com/paulruiz/dotvim.git ~/.vim 
-    ln -s ~/.vim/vimrc ~/.vimrc 
-    cd ~/.vim 
+    git clone https://github.com/paulruiz/dotvim.git ~/.vim
+    ln -s ~/.vim/vimrc ~/.vimrc
+    cd ~/.vim
     git submodule update --init --merge
 
 To update submodules
@@ -13,29 +13,27 @@ To update submodules
     git add bundle/*
 
 ### Bundled vim modules
-* [pathogen](https://github.com/tpope/vim-pathogen)       -  separate your plugins into .vim/bundle/foo subdirs and other benefits
-* [snipmate](https://github.com/msanders/snipmate.vim)    -  textmate _snippets_ in vim.  Be sure to pull in a number of pull requests.
-* [syntastic](https://github.com/scrooloose/syntastic)    -  _syntax_ checker for a wide number of languages
-* [fugitive](https://github.com/tpope/vim-fugitive)       -  self-proclaimed best vim _git_ wrapper plugin
-* [nerdtree](https://github.com/scrooloose/nerdtree.git)  -  _file browser_ with special powers
-* [puppet](https://github.com/rodjek/vim-puppet.git)      -  puppet mode with snippets, syntastic and tabular
-* [vim-slime](https://github.com/jpalardy/vim-slime)      -  grab some text and "send" it to a GNU Screen / tmux / whimrepl session.
-* [vim-rake](https://github.com/tpope/vim-rake.git)       -  like vim-rails without the rails
-* [vim-rails](https://github.com/tpope/vim-rails.git)     -  rails dev mode
-* [vim-bundler](https://github.com/tpope/vim-bundler.git) -  lightweight support for ruby's bundler
-* [vim-rdoc](https://github.com/depuracao/vim-rdoc)       -  rdoc mode
-* [vim-rspec](https://github.com/skwp/vim-rspec)          -  colorized RSpec tests in Vim with direct access to the line where the error occurred
+* [dbext](https://github.com/vim-scripts/dbext.vim)   -  database access to many dbms (Oracle, Sybase, Microsoft, MySQL, DBI, etc)
+* [json](https://github.com/elzr/vim-json)            -  better json syntax highlighting
+* [ruby-minitest](https://github.com/sunaku/vim-ruby-minitest) -  vim highlighting & completion for MiniTest
+* [nerdtree](https://github.com/scrooloose/nerdtree)  -  _file browser_ with special powers
+* [snipmate](https://github.com/msanders/snipmate.vim)      -  textmate _snippets_ in vim.  Be sure to pull in a number of pull requests.
+* [syntastic](https://github.com/scrooloose/syntastic)      -  _syntax_ checker for a wide number of languages
+* [tabular](https://github.com/godlygeek/tabular)     -  quickly columnize text and vertically align. Actually pretty nifty
+* [trailertrash](https://github.com/csexton/trailertrash.vim) -  trailing whitespace show and trim
+* [fugitive](https://github.com/tpope/vim-fugitive)   -  self-proclaimed best vim _git_ wrapper plugin
+* [vim-bundler](https://github.com/tpope/vim-bundler) -  lightweight support for ruby's bundler
+* [vim-commentary](https://github.com/tpope/vim-commentary) -  toggle commets on and off
+* [vim-markdown](https://github.com/tpope/vim-markdown)     -  markdown mode
+* [vim-rake](https://github.com/tpope/vim-rake)       -  like vim-rails without the rails
+* [vim-rails](https://github.com/tpope/vim-rails)     -  rails dev mode
+* [vim-rdoc](https://github.com/depuracao/vim-rdoc)   -  rdoc mode
+* [vim-repeat](https://github.com/tpope/vim-repeat)   -  enable repeating supported plugin maps with "."
+* [vim-rspec](https://github.com/skwp/vim-rspec)      -  colorized RSpec tests in Vim with direct access to the line where the error occurred
+* [vim-pathogen](https://github.com/tpope/vim-pathogen)     -  separate your plugins into .vim/bundle/foo subdirs and other benefits
+* [vim-ps1](https://github.com/PProvost/vim-ps1)      -  powershell :(
+* [vim-slime](https://github.com/jpalardy/vim-slime)  -  grab some text and "send" it to a GNU Screen / tmux / whimrepl session.
 * [vim-terraform](https://github.com/markcornick/vim-terraform) - Hashicorp Terraform support
-* [cucumber](https://github.com/tpope/vim-cucumber.git)   -  vim cucumber runtime files
-* [markdown](https://github.com/tpope/vim-markdown.git)   -  markdown mode
-* [dbext](https://github.com/vim-scripts/dbext.vim.git)   -  database access to many dbms (Oracle, Sybase, Microsoft, MySQL, DBI, etc)
-* [tabular](https://github.com/godlygeek/tabular.git)     -  quickly columnize text and vertically align. Actually pretty nifty
-* [commentary](https://github.com/tpope/vim-commentary)   -  toggle commets on and off
-* [repeat](https://github.com/tpope/vim-repeat)           -  enable repeating supported plugin maps with "."
-* [ruby-minitest](https://github.com/sunaku/vim-ruby-minitest)  -  vim highlighting & completion for MiniTest
-* [trailertrash](https://github.com/csexton/trailertrash.vim.git) -  trailing whitespace show and trim
-* [ruby minitest](https://github.com/sunaku/vim-ruby-minitest.git) -  minitest mode
-* [json](https://github.com/elzr/vim-json.git)  -  better json syntax highlighting
 
 ### Vim modules you may want to checkout
 * [vim-ruby-conque](https://github.com/skwp/vim-ruby-conque.git) - may be better for rspec and rake run/output 
