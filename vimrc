@@ -53,5 +53,4 @@ let NERDTreeBookmarksFile='~/.vim/.NERDTreeBookmarks'
 let g:vim_json_syntax_conceal = 0
 let g:ps1_nofold_blocks = 1
 
-autocmd FileType puppet set commentstring=#\ %s
 set completefunc=syntaxcomplete#Complete
