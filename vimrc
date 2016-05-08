@@ -52,5 +52,6 @@ let NERDTreeIgnore=['.git', '\~$']
 let NERDTreeBookmarksFile='~/.vim/.NERDTreeBookmarks'
 let g:vim_json_syntax_conceal = 0
 let g:ps1_nofold_blocks = 1
+let g:terraform_fmt_on_save = 1
 
 set completefunc=syntaxcomplete#Complete
