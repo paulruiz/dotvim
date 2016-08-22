@@ -41,6 +41,16 @@ autocmd BufReadPost *
 autocmd FileType make     set noexpandtab
 autocmd FileType python   set noexpandtab
 
+autocmd BufRead,BufNewFile *.md setlocal spell spelllang=en_us
+highlight clear SpellBad
+highlight SpellBad term=standout ctermfg=1 term=underline cterm=underline
+highlight clear SpellCap
+highlight SpellCap term=underline cterm=underline
+highlight clear SpellRare
+highlight SpellRare term=underline cterm=underline
+highlight clear SpellLocal
+highlight SpellLocal term=underline cterm=underline
+
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 call pathogen#infect()
 syntax on
@@ -55,3 +65,6 @@ let g:ps1_nofold_blocks = 1
 let g:terraform_fmt_on_save = 1
 
 set completefunc=syntaxcomplete#Complete
+
+autocmd FileType terraform setlocal commentstring=#\ %s
+
