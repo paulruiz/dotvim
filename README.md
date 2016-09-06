@@ -17,6 +17,7 @@ To update submodules
 * [dbext](https://github.com/vim-scripts/dbext.vim)   -  database access to many dbms (Oracle, Sybase, Microsoft, MySQL, DBI, etc)
 * [json](https://github.com/elzr/vim-json)            -  better json syntax highlighting
 * [ruby-minitest](https://github.com/sunaku/vim-ruby-minitest)  -  vim highlighting & completion for MiniTest
+* [nerdcommenter](https://github.com/scrooloose/nerdcommenter)  -  commentsies
 * [nerdtree](https://github.com/scrooloose/nerdtree)  -  _file browser_ with special powers
 * [snipmate](https://github.com/msanders/snipmate.vim)      -  textmate _snippets_ in vim.  Be sure to pull in a number of pull requests.
 * [syntastic](https://github.com/scrooloose/syntastic)      -  _syntax_ checker for a wide number of languages
