@@ -23,17 +23,17 @@ To update submodules
 * [syntastic](https://github.com/scrooloose/syntastic)      -  _syntax_ checker for a wide number of languages
 * [tabular](https://github.com/godlygeek/tabular)     -  quickly columnize text and vertically align. Actually pretty nifty
 * [trailertrash](https://github.com/csexton/trailertrash.vim)   -  trailing whitespace show and trim
-* [fugitive](https://github.com/tpope/vim-fugitive)   -  self-proclaimed best vim _git_ wrapper plugin
 * [vim-bundler](https://github.com/tpope/vim-bundler) -  lightweight support for ruby's bundler
 * [vim-commentary](https://github.com/tpope/vim-commentary) -  toggle commets on and off
+* [vim-fugitive](https://github.com/tpope/vim-fugitive)   -  self-proclaimed best vim _git_ wrapper plugin
 * [vim-markdown](https://github.com/tpope/vim-markdown)     -  markdown mode
+* [vim-pathogen](https://github.com/tpope/vim-pathogen)     -  separate your plugins into .vim/bundle/foo subdirs and other benefits
+* [vim-ps1](https://github.com/PProvost/vim-ps1)      -  powershell :(
 * [vim-rake](https://github.com/tpope/vim-rake)       -  like vim-rails without the rails
 * [vim-rails](https://github.com/tpope/vim-rails)     -  rails dev mode
 * [vim-rdoc](https://github.com/depuracao/vim-rdoc)   -  rdoc mode
 * [vim-repeat](https://github.com/tpope/vim-repeat)   -  enable repeating supported plugin maps with "."
 * [vim-rspec](https://github.com/skwp/vim-rspec)      -  colorized RSpec tests in Vim with direct access to the line where the error occurred
-* [vim-pathogen](https://github.com/tpope/vim-pathogen)     -  separate your plugins into .vim/bundle/foo subdirs and other benefits
-* [vim-ps1](https://github.com/PProvost/vim-ps1)      -  powershell :(
 * [vim-slime](https://github.com/jpalardy/vim-slime)  -  grab some text and "send" it to a GNU Screen / tmux / whimrepl session.
 * [vim-terraform](https://github.com/markcornick/vim-terraform) -  Hashicorp Terraform support
 
